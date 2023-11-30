@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./IMG-20231129-WA0033.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./IMG-20231129-WA0033.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Volks - MD</h1>
 
