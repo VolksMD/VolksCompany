@@ -32,6 +32,7 @@ VolksCompany.NVM, Palu - Central of Sulawesi, #94111-94118, Indonesian (182728)
 
 Bahasa yang digunakan pada bot :
 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚 : 40%
+
 𝐈𝐧𝐠𝐠𝐫𝐢𝐬 : 60%
 
 ----------
@@ -70,6 +71,9 @@ VOLKSCOMPANY. NVM., Palu - Central of Sulawesi, #94111 - 94118, Indonesian (1827
   
 - Hann (Desaigner Volks MD)
   [whatsapp](wa.me/6282271004426)
+
+- Zezee (API-Searcher)
+  [whatsapp](wa.me/6287815577055)
   
 - Fauzan (Service Company)
   [whatsapp](wa.me/62895352400907)
